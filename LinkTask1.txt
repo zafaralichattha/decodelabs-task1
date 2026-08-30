@@ -1,0 +1,4 @@
+Link of live website => https://s3.eu-north-1.amazonaws.com/zafaralichatha.portfolio/index.html
+
+By adding https protocol in front of the bucket link we make it accessible via web browser.
+https://d2ngehk3h2inf3.cloudfront.net/
